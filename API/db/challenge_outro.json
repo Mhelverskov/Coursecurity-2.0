@@ -1,0 +1,40 @@
+{
+  "8738-37cc": {
+    "Congratulations": {
+      "title": "Success!",
+      "paragraph": "<p><b>You've managed to break-in to PIA!</b></p><p>So even though one of PIA's systems was maintained by a large software company and up-to-date, an old perhaps even forgotten system was vulnerable because it had not been updated in a while.</p><p>The information you've found so far may not be shocking or highly classified, it was not supposed to be public, and it might help you get access to other information.</p><p><img style=\"width:100%;\" src=\"https://unsplash.com/photos/-MMeeP7pjbE/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjUwMjcwMTkx&force=true&w=1920\"/></p>"
+    },
+    "Danger": {
+      "title": "What is the danger?",
+      "paragraph": "<p>Software flaws and security holes are commonly discovered and typically fixed quickly. However, until a device is updated, the security hole remains and can be exploited by anyone aware of the issue. Updating is important to protect against vulnerabilities that are known to the public. If a seemingly small or unimportant system within a company network is compromised, it can potentially lead to bigger issues.</p> <p><img src=\"https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260\"/></p>"
+    }
+  },
+  "8738-38dd": {
+    "OutroText1": {
+      "title": "Congratulations",
+      "paragraph": "<p> Great job! You've managed to break into all systems and gather all the information needed!</p><p> A hacker could you use the information to: <ul><li>Create personalised phising emails to specfic targets (Spear phishing) </li> <li>Use the information gathered as a whole (about departments, employees etc.) to target important personell by winning their trust with \"inside information\"</li> <li> Black mailing </li> <li> ...And much more! </li> </ul> </p> <p><img style=\"width:100%;\" src=\"https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260\"/> </p>",
+      "img": "url"
+    },
+    "OutroText2": {
+      "title": "What is the danger?",
+      "paragraph": "<p> Authentication, such as passwords, is essential for secure internet usage. However, people often reuse passwords across different systems, even if some systems contain more sensitive data than others. This can make them vulnerable to password stuffing attacks. While a hack of a small webshop may not be a major concern, using the same password for work-related systems can potentially expose important internal systems if a small supplier experiences a data leak.</p> <p> <img style=\"width:100%;\" src=\"https://images.pexels.com/photos/5829726/pexels-photo-5829726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260\"/> </p>",
+      "img": "url"
+    },
+    "OutroText3": {
+      "title": "What can be done?",
+      "paragraph": "<p> Use a combination of letters, numbers, and special characters: Mixing these types of characters makes it harder for attackers to guess or crack your password. <p></p><b>Use a long password</b> The longer your password, the harder it is to crack. Aim for at least 8 characters, but the longer the better. <p></p><b>Avoid using personal information</b> Don't include your name, address, phone number, or any other personal information in your password.<p></p><b>Don't use common words or phrases</b> Avoid using dictionary words, famous quotes, or other common phrases as your password. These can be easily guessed or cracked by attackers. <p></p><b>Use a password manager</b> A password manager can help you generate strong, unique passwords for all of your accounts and store them securely. This way, you don't have to remember multiple passwords and can use different passwords for each account.</p>"
+    }
+  },
+  "8738-36bb": {
+    "OutroText1": {
+      "title": "Success!",
+      "paragraph": "<p>You succesfully constructed a BEC attack on PIA.<p></p><b>Financial loss.</b> Cybercriminals often use phishing attacks to trick people into revealing sensitive financial information, such as bank account numbers or credit card details. This information can then be used to steal money from the victim's accounts.<p></p><b>Identity theft.</b> Phishing attacks can also be used to steal personal information, such as names, addresses, and social security numbers. This information can be used to impersonate the victim and commit fraud.<p></p><b>Damage to reputation</b> If a phishing attack is successful and results in the loss of sensitive information or money, it can damage the reputation of the victim and their organization.<p></p><b>Malware infection.</b> Some phishing attacks involve installing malware on the victim's computer or device. This malware can then be used to steal sensitive information or disrupt the operation of the device.<p></p><b>Loss of productivity.</b> If a phishing attack results in the loss of sensitive data or the disruption of computer systems, it can lead to a loss of productivity for the victim and their organization. </p>",
+      "img": "url"
+    },
+    "OutroText2": {
+      "title": "What can be done?",
+      "paragraph": "<p> By now, you should have a better understanding of the various tactics that cybercriminals use to trick people into revealing sensitive information or installing malware. To prevent phishing attacks, it's important to be vigilant and aware of the signs of a phishing attempt. Some common red flags to watch out for include: <li>Emails or messages from unfamiliar senders</li><li>Requests for personal information or login credentials</li> <li>Links that lead to suspicious websites</li><li>Misspellings or poor grammar in the message</li><li>Requests to install software or open attachments</li></p>",
+      "img": "url"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "8738-37cc": {
+    "Introduction": {
+      "title": "Welcome to Coursecurity ",
+      "paragraph": "<p>In this system you will taking on the role of an evil hacker, where you will be trying to find vulnerabilities in the system of <svg style=\"height:0.75em; line-height:1em; display:inline;\" version=\"1.1\" viewBox=\"0 0 45.963 21.64\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(-46.104 -20.642)\"><g><path transform=\"scale(.26458)\" d=\"m306.7 78.016-6.2187 12.328-35.047 69.459h12.439l28.826-57.133 28.828 57.133h12.438l-35.047-69.459z\" stop-color=\"#000000\" stroke-linejoin=\"round\" stroke-width=\"2.4688\" style=\"paint-order:stroke markers fill\"/><rect x=\"46.104\" y=\"21.114\" width=\"2.6458\" height=\"21.167\" stop-color=\"#000000\" stroke-linejoin=\"round\" stroke-width=\".56684\" style=\"paint-order:stroke markers fill\"/><path d=\"m51.131 21.114v2.6936h6.68e-4c1.945 0 3.4929 1.5479 3.4929 3.4932 0 1.9453-1.5478 3.4935-3.4929 3.4935h-6.68e-4v2.6933h6.68e-4c3.4006 0 6.1861-2.7858 6.1861-6.1868-3e-6 -3.401-2.7855-6.1868-6.1861-6.1868h-6.68e-4z\" color=\"#000000\" color-rendering=\"auto\" dominant-baseline=\"auto\" image-rendering=\"auto\" shape-rendering=\"auto\" solid-color=\"#000000\" stop-color=\"#000000\" style=\"font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;paint-order:stroke markers fill;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal\"/><rect x=\"60.941\" y=\"21.114\" width=\"5.2917\" height=\"21.167\" stop-color=\"#000000\" stroke-linejoin=\"round\" stroke-width=\".80164\" style=\"paint-order:stroke markers fill\"/></g></g></svg> that you can misuse. </p><p>You will complete a total of three challenges, all highlighting different methods of hacking. Happy hacking! </p><p> <img src=\"https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?cs=srgb&dl=pexels-manuel-geissinger-325229.jpg&fm=jpg\"/></p>"
+    },
+    "Coursecurity": {
+      "title": "How does it work?",
+      "paragraph": "<p>Before we start, there are somethings you need to understand.<p></p>First off, the challenges you are completing are all done in a Virtual Network Computer(VNC). This means you should not be worried about breaking anything, it is a closed enviroment. But this also means that some functionality you are used to might not work, for example you cannot use keyboard shortcuts. </p><p>Secondly, you will be guided thoroughly through each challenge, you will find a guide on the right side of your screen. You can check off the tasks as you go.</p><p>Lastly, all three challenges are connected in some way, so you should not be worried about losing anything, you can always circle back.</p>",
+      "img": "url"
+    },
+    "Learning objective": {
+      "title": "Learning objective",
+      "paragraph": "<p>This is your first learning objective, related to challenge number one. This is what you should be able to understand, when the challenge is completed.</p><p><i>At the end of this challenge, the student should be able to explain the potential dangers of not keeping applications updated, including the risk of security vulnerabilities and the potential for reduced functionality, using examples and evidence from their own research and analysis.</i></p>",
+      "img": "url"
+    },
+    "Challenge": {
+      "title": "Your first challenge",
+      "paragraph": "<p>You are interested in knowing who works at PIA and what they earn. In order to get access to this information you will investigate any security holes and try to exploit them. You can always circle back to this information, no need to save it.</p><p>You already know that:</p><ul><li>They use Maxisoft Home247 for cloud services</li><li>Their usernames look like [the users initials] @ pia.dk</li><li>The information you want is in sharedot.com</li></ul> <p><img src=\"https://images.pexels.com/photos/3077882/pexels-photo-3077882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260\"/></p>",
+      "img": "url"
+    }
+  },
+  "8738-38dd": {
+    "Introduction": {
+      "title": "Introduction",
+      "paragraph": " <p>During the last challenge you managed to gather information which might a potential aid in breaching sharedot.com using attacks on passwords. </p> <p>Throughout this challenge we'll show you how information obtained else where can be of use to gain access to other systems.</p> <p>Additionally we'll try to teach you different important factors to consider, when creating passwords for a system.</p><p><img src=\"https://images.pexels.com/photos/1990764/pexels-photo-1990764.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260\"/></p>",
+      "img": "url"
+    },
+    "Passwords": {
+      "title": "Password attacks",
+      "paragraph": "<p>When attacking passwords there exist several different ways of doing so. Below we've explained only a few of them.</p> <h5>Brute Force attack</h5><ul> <li style=\" font-size: 13px;\">Brute force attacks is when an attacker try to force there way through, by trying every single combination of passwords.</li> <li style=\" font-size: 13px;\">A computer is incredible fast a can try a lot of combination very quick. It would for example take seconds to try every combination for a 4 digit pin.</li> <li style=\" font-size: 13px;\">A Brute force attack is good against weaker passwords shorter passwords, but when the passwords is over 8 characters it starts to take to long. </li></ul><h5>Dictionary attack</h5> <ul><li style=\" font-size: 13px;\">A Dictionary attack is when an attacker try to force there way through, by using a predefined list with combination as potential passwords. The list could be a dictionary with words, a list made out of combination, etc. </li><li style=\" font-size: 13px;\"> A dictionary attack is good against users that are using patterns for creating there passwords. However, struggles against random combinations.</li></ul><h5>Password stuffing</h5><ul><li style=\" font-size: 13px;\">Stuffing is when an attacker uses information found else where, e.g. usernames and passwords, and try to stuff it into a different system.</li><li style=\" font-size: 13px;\">Password stuffing is good when users uses the same password across different platform, since a weakness is one platform results in a weakness in other. </li> </ul>",
+      "img": "url"
+    },
+    "Learning objective": {
+      "title": "Learning objective",
+      "paragraph": "<p>This is your second learning objective, related to challenge number two. This is what you should be able to understand, when the challenge is completed.</p><p><i>At the end of this challenge, students should be able to identify the potential risks and consequences of using a weak password, including the likelihood of a security breach and the potential for personal or financial damage, and apply this knowledge to create and maintain strong passwords for their own accounts and devices.</i></p>",
+      "img": "url"
+    },
+    "Challenge": {
+      "title": "Your second challenge",
+      "paragraph": "<p>You are still trying to figure out who works at PIA and see what they earn.</p><p> During last challenge you gained valuable information, which might be able to aid you in your quest to access sharedot.com</p> <p>You will do this by using Password attacks as mentioned on last slide.</p> <p><img src=\"https://images.pexels.com/photos/685674/pexels-photo-685674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260\"/></p>",
+      "img": "url"
+    }
+  },
+  "8738-36bb": {
+    "Introduction": {
+      "title": "Introduction",
+      "paragraph": "<p>During the last challenge, you gained access to a file system using a compromised login. During this challenge you will do the same, but the difference here being you are going to see a method typically used by phishing schemces.<p><img style=\"width:100%;\" src=\"https://images.pexels.com/photos/2882630/pexels-photo-2882630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260\"/></p>",
+      "img": "url"
+    },
+    "Webmail": {
+      "title": "Phishing",
+      "paragraph": "<p>Phishing is a type of cybercrime in which attackers attempt to trick individuals into giving away sensitive information such as login credentials, financial information, or personal data by disguising themselves as a trustworthy entity in an electronic communication. These communications can take the form of emails, text messages, or social media messages. </p><p><b>Look for suspicious sender addresses.</b> Phishing emails often come from unfamiliar or suspicious sender addresses, so be wary of emails from unfamiliar people or companies. <p></p><b>Check the email for typos and poor formatting.</b> Legitimate companies and organizations generally have professional-looking emails, so look out for emails with typos, poor formatting, or odd language. <p></p><b>Be cautious of email requests for personal information.</b> Be cautious of emails that ask for personal information or login credentials, especially if you were not expecting such a request. <p></p>Do not click on links in suspicious emails: If you receive an email that seems suspicious, don't click on any links or download any attachments. Instead, go directly to the company's website to verify the authenticity of the request.</p>",
+      "img": "url"
+    },
+    "Learning objective": {
+      "title": "Learning objective",
+      "paragraph": "<p>This is your third and final learning objective, related to challenge number three. This is what you should be able to understand, when the challenge is completed.</p><p><i>At the end of this challenge, students should be able to identify the dangers of phishing attempts, and apply appropriate protective measures, such as verifying the sender's identity and avoiding clicking on suspicious links or providing personal information, to prevent falling victim to phishing attacks.</i></p>",
+      "img": "url"
+    },
+    "Challenge": {
+      "title": "Your third challenge",
+      "paragraph": "<p>Having gained access to compromised credentials, you are now trying to leverage this to your advantage. Using the information you found, you are going to construct a Business Email Comprise (BEC) by disguising as your victim.</p>",
+      "img": "url"
+    }
+  }
+}
